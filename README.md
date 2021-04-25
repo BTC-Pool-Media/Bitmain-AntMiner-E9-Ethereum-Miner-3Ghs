@@ -15,5 +15,8 @@
 
 Tutorial PDF & SETTING UP Included in .ZIP file
 
++ Antminer Recovery and Flashing by dint of SD Card
++ https://youtu.be/MHJ1ydIA3Go
+
 If you have any questions, write an Email:
 # contact: achow@gmx.com
