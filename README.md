@@ -13,8 +13,7 @@
 
 + So, the Antminer E9 is going to be offering similar performance to 32x Nvidia GeForce RTX 3080 GPU mining rig mining Ethereum with GPUs optimized for close to 100 MH/s hashrate
 
-Tutorial PDF & SETTING UP Included in .ZIP file
-
++ Tutorial PDF & SETTING UP Included in .ZIP file
 + Antminer Recovery and Flashing by dint of SD Card
 + https://youtu.be/MHJ1ydIA3Go
 
