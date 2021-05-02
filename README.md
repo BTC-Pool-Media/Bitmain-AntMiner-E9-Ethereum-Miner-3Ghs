@@ -7,7 +7,7 @@
 
 + Upgradededicated Ethash miner, namely the Bitmain Antminer E3
 + NEW! Firmware (2021 April ) 
-+ Antminer E9 https://satoshidisk.com/pay/CCIaqp
++ Antminer E9 Firmware Dowloads satoshidisk SOON !
 + 3 GH/s mining hashrate with 2556 Watts of 
 + power usage and 0.85 J/M power efficiency
 
