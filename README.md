@@ -10,6 +10,7 @@
 + Antminer E9 Firmware Dowloads satoshidisk SOON !
 + 3 GH/s mining hashrate with 2556 Watts of 
 + power usage and 0.85 J/M power efficiency
++ https://tinyurl.com/y6fw92w2
 
 + So, the Antminer E9 is going to be offering similar performance to 32x Nvidia GeForce RTX 3080 GPU mining rig mining Ethereum with GPUs optimized for close to 100 MH/s hashrate
 
