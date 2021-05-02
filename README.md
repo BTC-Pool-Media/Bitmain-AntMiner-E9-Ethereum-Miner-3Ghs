@@ -5,8 +5,8 @@
 
 # Bitmain AntMiner E9 Ethereum Miner 3Gh/s
 
-+ Upgradededicated Ethash miner, namely the Bitmain Antminer E3
-+ NEW! Firmware (2021 April ) 
++ Upgradededicated Ethash miner, namely the Bitmain Antminer E9
++ NEW! Firmware (2021 SOON !!! ) 
 + Antminer E9 Firmware Dowloads satoshidisk SOON !
 + 3 GH/s mining hashrate with 2556 Watts of 
 + power usage and 0.85 J/M power efficiency
